@@ -2,8 +2,7 @@
 
 I'm a Computer Information System's Major, born and rasied in the Central Valley specfially the Tulare County.
 First Generation kid of Immirgrant Parents trying to make the most out oppurtunity given to me
-![Picture of me dropping off Jack in the Box for a friend](JoshTapia.png)
-
+![Joshua Tapia](JoshTapia.png.jpg
 ## UX Team Project
 
 Coming soon.
