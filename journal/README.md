@@ -1,3 +1,3 @@
-# Journal Narrative
+# Emulation with a SteamDeck
 
-Journal narrative
+I use a Valve SteamDeck
