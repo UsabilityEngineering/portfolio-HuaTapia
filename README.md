@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Emulation with a Steamdeck](journal/)
