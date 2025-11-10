@@ -1,3 +1,3 @@
-# Journal Title
+# Emulation with a SteamDeck
 
 Journal narrative
