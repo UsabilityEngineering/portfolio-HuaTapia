@@ -2,6 +2,13 @@
 
 I use a [Value SteamDeck](https://store.steampowered.com/steamdeck/) for all my emulations of video games that I wish to play on the go or when I'm away from my computer. One of the main features that is promated for this device is the fact that it connects to your steam profile and libary but, it also has a feature of going into a desktop mode where you can access the internet and from there you can add the necessarily files needed to emulate.
 
+![Desktop](https://github.com/user-attachments/assets/f3b23fea-3f93-4ccc-a698-ffc85890d32e)
+
+
 So to really get started into emulating on the SteamDeck you first have to download [EmuDeck](https://www.emudeck.com/) a tool that already has mutiple emulator platforms on there making the process easier and quicker instead of indivually having to download all these platforms. Something to note though is the fact that these emulators are there buit they don't have the BIOs installed which are neccassry to even launch games on them. Fortunately the EmuDeck creators have also made a [wiki](https://emudeck.github.io/cheat-sheet/) explaing what they are and where to even get the BIOs files
 
-After having done all that set and done you can go about getting roms installed on your SteamDeck 2 ways one is downloading them onto a external drive and then moving them onto the right your roms folder for the right emulator. Another way is to connect an HDMI cable to a docked SteamDeck to your pc and then just move the folders that way. Personally I prefer the 1st option just because the only thing I have to worry about connecting anything is the flashdrive I use for them.
+![Installation](https://github.com/user-attachments/assets/ff301226-4c66-46bd-bb91-79c5e91df6be)
+
+After having done all that you can go about getting roms installed on your SteamDeck 2 ways one is downloading them onto a external drive and then moving them onto the right your roms folder for the right emulator. Another way is to connect an HDMI cable to a docked SteamDeck to your pc and then just move the folders that way. Personally I prefer the 1st option just because the only thing I have to worry about connecting anything is the flashdrive I use for them.
+
+During the process you have to open up the emudeck folder and make your ways towards the installed emulators folders and go and transfer the game you want into their respective roms folder.
