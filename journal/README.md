@@ -1,3 +1,3 @@
-# Emulation with a SteamDeck
+# Journal Narrative
 
 Journal narrative
