@@ -1,4 +1,5 @@
-# Emulation with a SteamDeck                                                      Joshua Tapia Almanza November 10, 2025
+# Emulation with a SteamDeck                                                      
+                                                                            Joshua Tapia Almanza November 10, 2025
 
 I use a [Value SteamDeck](https://store.steampowered.com/steamdeck/) for all my emulations of video games that I wish to play on the go or when I'm away from my computer. The SteamDeck is really promoted for the fact that it connects to your steam profile and library but while you are away from your computer allowing you access your library and download games that you have in your library as long as they are compatible with the SteamDeck, it also has a feature of going into a desktop mode where you can access the internet and from there the main reason I have a SteamDeck begins, since there is a desktop mode you can go to any website you want like any of desktop and download files that you want to really customize your SteamDeck and truly make it your own.
 
